@@ -1,10 +1,11 @@
 ### Backend Developer
 
-##Connect with me...
+## Connect with me...
 
 <a href="https://www.linkedin.com/in/geraldineadelmann/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-##Tools and Languages...
+## Tools and Languages...
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -21,9 +22,14 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=whit">
 <img src="	https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<br>
 
 #------------------------------------------------------------------------------------------------------
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldine999">
+<br>
+<br>
 #------------------------------------------------------------------------------------------------------
 <!--
 **geraldine999/geraldine999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
